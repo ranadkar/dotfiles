@@ -2,6 +2,7 @@
 set -euo pipefail
 
 CONFIG_DIR="$HOME/.config"
+BASH_ALIASES="$HOME/.bash_aliases"
 
 NVIM_SRC="./nvim"
 TMUX_SRC="./tmux"
